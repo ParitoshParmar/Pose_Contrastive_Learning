@@ -1,5 +1,11 @@
 # Pose_Contrastive_Learning
-Self-Supervised Pose Contrastive Learning to Learn Pose Sensitive Representations. More details can be found in our paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
+Self-Supervised Pose Contrastive Learning to Learn Pose Sensitive Representations. 
+
+
+<p align="left"> <img src="imgs/pose_contrastive_framework_2.png?raw=true" alt="cvcspc" width="400"/> </p>
+
+
+More details can be found in our paper: [Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment](https://arxiv.org/abs/2202.14019)
 
 
 
