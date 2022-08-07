@@ -1,5 +1,5 @@
 # Pose_Contrastive_Learning
-Self-Supervised Pose Contrastive Learning to Learn Pose Sensitive Representations. 
+Self-Supervised Pose Contrastive Learning to Learn Pose Sensitive Representations. Essentially, the network learns pose sensitive representations by learning to map images of humans in similar poses closer together, while pushing apart images containing humans in dissimilar poses (refer to the figure below).
 
 
 <p align="left"> <img src="https://raw.githubusercontent.com/ParitoshParmar/Fitness-AQA/main/imgs/pose_contrastive_framework_2.png" alt="cvcspc" width="400"/> </p>
